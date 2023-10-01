@@ -5,7 +5,7 @@ name = "Hugo Scroll"
 license = "MIT"
 licenselink = "https://github.com/zjedi/hugo-scroll/blob/master/LICENSE"
 description = "A Hugo theme for pretty, quick and simple single-page websites."
-homepage = "https://github.com/zjedi/hugo-scroll"
+homepage = "https://github.com/blisscareconect/blisscareconect.github.io"
 demosite = "https://zjedi.github.io/hugo-scroll/"
 tags = [
   "clean",
